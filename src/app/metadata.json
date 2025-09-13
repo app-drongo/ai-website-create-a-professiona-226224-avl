@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Home",
+    "route": "/",
+    "title": "Home | create-a-professional-5473",
+    "description": "Home page for create-a-professional-5473"
+  },
+  {
+    "name": "Properties",
+    "route": "/properties",
+    "title": "Properties | create-a-professional-5473",
+    "description": "Properties page for create-a-professional-5473"
+  },
+  {
+    "name": "Property Detail",
+    "route": "/properties/:id",
+    "title": "Property Detail | create-a-professional-5473",
+    "description": "Property Detail page for create-a-professional-5473"
+  },
+  {
+    "name": "About",
+    "route": "/about",
+    "title": "About | create-a-professional-5473",
+    "description": "About page for create-a-professional-5473"
+  },
+  {
+    "name": "Reviews",
+    "route": "/reviews",
+    "title": "Reviews | create-a-professional-5473",
+    "description": "Reviews page for create-a-professional-5473"
+  },
+  {
+    "name": "Contact",
+    "route": "/contact",
+    "title": "Contact | create-a-professional-5473",
+    "description": "Contact page for create-a-professional-5473"
+  },
+  {
+    "name": "Booking",
+    "route": "/booking",
+    "title": "Booking | create-a-professional-5473",
+    "description": "Booking page for create-a-professional-5473"
+  },
+  {
+    "name": "Policies",
+    "route": "/policies",
+    "title": "Policies | create-a-professional-5473",
+    "description": "Policies page for create-a-professional-5473"
+  }
+]
